@@ -1,0 +1,16 @@
+============================================
+      ASYNCHRONOUS FIFO TESTBENCH
+============================================
+
+Write operation completed
+
+Read Data = A1
+Read Data = B2
+Read Data = C3
+Read Data = D4
+Read Data = E5
+
+FIFO EMPTY = 1
+FIFO FULL  = 0
+
+Simulation completed successfully.
